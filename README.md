@@ -4,10 +4,10 @@ A web-based Hospital Management System developed for Programming 1 Project Part 
 
 ## Team Members
 
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+- Lin Shen
+- Farhan
+- Aqeel
+- Nishan
 
 ## Project Functions
 
