@@ -1,11 +1,15 @@
+def display_menu():
+    print("\n===== CareBridge Hospital Management System =====")
+    print("1. Register Patient")
+    print("2. Book Appointment")
+    print("3. Calculate Bill")
+    print("4. Assign Triage Room")
+    print("5. Exit")
+
+
 def main():
     while True:
-        print("\n===== CareBridge Hospital Management System =====")
-        print("1. Register Patient")
-        print("2. Book Appointment")
-        print("3. Calculate Bill")
-        print("4. Assign Triage Room")
-        print("5. Exit")
+        display_menu()
 
         choice = input("Enter your choice: ")
 
